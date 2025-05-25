@@ -1,4 +1,4 @@
-# NewCosmos 🚀🌌
+# NewCosmos 
 
 ## Interactive landing page Solar System Visualization
 
