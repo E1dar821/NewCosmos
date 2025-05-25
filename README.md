@@ -1,6 +1,6 @@
 # NewCosmos 🚀🌌
 
-## Interactive Solar System Visualization
+## Interactive landing page Solar System Visualization
 
 ### Overview
 NewCosmos is an engaging, interactive web application that visualizes our solar system, providing an immersive astronomical experience.
